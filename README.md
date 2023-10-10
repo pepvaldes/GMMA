@@ -2,9 +2,6 @@
 
 This repository contains the ipython-notebooks to reproduce the results for the dissertation submitted in partial fulfilment of the requirements of the award of MSc Data Science.
 
-Student ID: 21038875
-
-
 University of the West of England, Bristol
 
 ### Files
@@ -27,3 +24,5 @@ To reproduce the results, notebooks must be executen in the following order:
 - seaborn
 - sklearn
 
+### Contact
+https://www.linkedin.com/in/jose-e-valdes-ds/
